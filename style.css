@@ -67,8 +67,7 @@ html {
   justify-content: center;
   align-items: center;
   height: 50rem;
-  background: url("https://content.codecademy.com/courses/freelance-1/unit-6/project-morocco/banner.jpg") center center no-repeat;
-  background-size: cover;
+  background-color: blue;
   color: #ffb78c;
 }
 
